@@ -1,13 +1,23 @@
-# Project Name: Bitroot-assignment.
+# Contact List Management Backend
 
-This is a contact-us backend project. It was built with NodeJS, Expressjs libraries, MongoDB and Multer for storing image. 
+This project is a backend service for managing a contact list. It is built using Node.js, Express.js, and MongoDB.
+
+## Features
+
+- Add a new contact
+- Retrieve all contacts
+- Retrieve a contact by ID
+- Update a contact by ID
+- Delete a contact by ID
+
 
 ## Technologies Used
 
 1. NodeJS
-2. Expressjs
-3. Multer for storing image
-4. MongoDB
+2. Express.JS
+3. MongoDB
+4. Multer for storing image
+
 
 ## Installation
 
@@ -16,7 +26,7 @@ To install and run this project, follow these steps:
 1. Clone the repository:
 
    ```sh
-   https://github.com/Pawan123Pawan/bitroot-backend/
+   https://github.com/NevilKumar2002/bitroot_backend/
    ```
 
 2. Install dependencies:
